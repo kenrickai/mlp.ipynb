@@ -1,0 +1,23 @@
+# Core dependencies
+numpy
+pandas
+scikit-learn
+matplotlib
+jupyter
+
+# Deep Learning Frameworks (use one or both)
+tensorflow>=2.13.0
+torch>=2.0.0
+torchvision>=0.15.0
+torchaudio>=2.0.0
+
+# Deployment frameworks
+streamlit
+gradio
+fastapi
+uvicorn
+
+# Optional utilities
+joblib
+pydantic
+python-dotenv
